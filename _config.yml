@@ -1,7 +1,10 @@
 # Site settings
 title: Joshua W Lindsay
-tagline: Aliquet enim cep justo adipiscing erat accumsan at Parturient
-logo-fa-class: fa-gem
+tagline: >
+  I am a full-stack software engineer specializing in JavaScript and proficient in TypeScript, Go, and AWS. 
+  I co-created Mayfly, an open-source tool for deploying user session backends. I enjoyed teaching secondary 
+  math to at-risk students, training and managing employees, and fostering children with my wife.
+image: images/HeadshotJUN2021.jpg
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for

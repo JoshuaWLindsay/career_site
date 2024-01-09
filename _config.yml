@@ -8,12 +8,11 @@ tagline: >
   and I <strong>foster</strong> children with my wife.
 image: images/HeadshotJUN2021.jpg
 description: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I am a <strong>full-stack software engineer</strong> specializing in <strong>JavaScript</strong>, am proficient in <strong>TypeScript</strong>, 
+  <strong>Go</strong>, and am a certified <strong>AWS Cloud Practitioner</strong>.<br />
+  I co-created <a href="https://mayfly.dev"><strong>Mayfly</strong></a>, an open-source tool for deploying user session backends.<br />
+  I <strong>taught</strong> secondary math to at-risk students, <strong>trained</strong> and <strong>managed</strong> employees,<br />
+  and I <strong>foster</strong> children with my wife.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://joshuawlindsay.dev" # the base hostname & protocol for your site
 

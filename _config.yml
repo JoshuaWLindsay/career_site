@@ -10,7 +10,7 @@ image: images/HeadshotJUN2021.jpg
 description: >
   I am a <strong>full-stack software engineer</strong> specializing in <strong>JavaScript</strong>, am proficient in <strong>TypeScript</strong>, 
   <strong>Go</strong>, and am a certified <strong>AWS Cloud Practitioner</strong>.<br />
-  I co-created <a href="https://mayfly.dev"><strong>Mayfly</strong></a>, an open-source tool for deploying user session backends.<br />
+  I co-created <strong>Mayfly</strong>, an open-source tool for deploying user session backends.<br />
   I <strong>taught</strong> secondary math to at-risk students, <strong>trained</strong> and <strong>managed</strong> employees,<br />
   and I <strong>foster</strong> children with my wife.
 baseurl: "" # the subpath of your site, e.g. /blog

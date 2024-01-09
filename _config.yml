@@ -8,11 +8,11 @@ tagline: >
   and I <strong>foster</strong> children with my wife.
 image: images/HeadshotJUN2021.jpg
 description: >
-  I am a <strong>full-stack software engineer</strong> specializing in <strong>JavaScript</strong>, am proficient in <strong>TypeScript</strong>, 
-  <strong>Go</strong>, and am a certified <strong>AWS Cloud Practitioner</strong>.<br />
-  I co-created <strong>Mayfly</strong>, an open-source tool for deploying user session backends.<br />
-  I <strong>taught</strong> secondary math to at-risk students, <strong>trained</strong> and <strong>managed</strong> employees,<br />
-  and I <strong>foster</strong> children with my wife.
+  I am a full-stack software engineer specializing in JavaScript, am proficient in TypeScript, 
+  Go, and am a certified AWS Cloud Practitioner.
+  I co-created Mayfly, an open-source tool for deploying user session backends.
+  I taught secondary math to at-risk students, trained and managed employees,
+  and I foster children with my wife.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://joshuawlindsay.dev" # the base hostname & protocol for your site
 

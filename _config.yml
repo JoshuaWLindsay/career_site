@@ -1,9 +1,9 @@
 # Site settings
 title: Joshua W Lindsay
 tagline: >
-  I am a full-stack software engineer specializing in <strong>JavaScript<strong/>, am proficient in <strong>TypeScript<strong/>, 
-  <strong>Go<strong/>, and am a certified <strong>AWS Cloud Practitioner<strong/>.<br />
-  I co-created <a href="https://mayfly.dev"><strong>Mayfly<strong/><a/>, an open-source tool for deploying user session backends.<br />
+  I am a full-stack software engineer specializing in <strong>JavaScript</strong>, am proficient in <strong>TypeScript</strong>, 
+  <strong>Go</strong>, and am a certified <strong>AWS Cloud Practitioner</strong>.<br />
+  I co-created <a href="https://mayfly.dev"><strong>Mayfly</strong></a>, an open-source tool for deploying user session backends.<br />
   I enjoyed teaching secondary math to at-risk students, training and managing employees, and fostering children with my wife.
 image: images/HeadshotJUN2021.jpg
 description: >

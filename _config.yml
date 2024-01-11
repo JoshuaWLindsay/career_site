@@ -3,15 +3,12 @@ title: Joshua W Lindsay
 tagline: >
   I am a <strong>full-stack software engineer</strong> specializing in <strong>JavaScript</strong>,<br />am proficient in <strong>TypeScript</strong>, 
   <strong>Go</strong>, and am a certified <strong>AWS Cloud Practitioner</strong>.<br />
-  I co-created <span style="color: #4c5c96;"><a href="https://mayfly.dev" target="_blank" rel="noopener noreferrer"><strong>Mayfly</strong></a></span>, an open-source tool for deploying user session backends.<br />
-  I <strong>taught</strong> secondary math to at-risk students, <strong>trained</strong> and <strong>managed</strong> employees.
+  I co-created <h4><a href="https://mayfly.dev" target="_blank" rel="noopener noreferrer"><strong>Mayfly</strong></a></h4>, an open-source tool for deploying user session backends.
 image: images/HeadshotJUN2021.jpg
 description: >
   I am a full-stack software engineer specializing in JavaScript, am proficient in TypeScript, 
   Go, and am a certified AWS Cloud Practitioner.
   I co-created Mayfly, an open-source tool for deploying user session backends.
-  I taught secondary math to at-risk students, trained and managed employees,
-  and I foster children with my wife.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://joshuawlindsay.dev" # the base hostname & protocol for your site
 

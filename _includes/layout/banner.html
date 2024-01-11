@@ -23,6 +23,15 @@
 		<div class="inner">
       <img class="image" src="{{ site.image }}" alt="{{ site.title }}" />
 			<h2>{{ site.title }}</h2>
-			<p style="text-transform: none;">{{ site.tagline }}</p>
+      <p style="text-transform: none;">
+        {% assign words = site.tagline | split: ' ' %}
+        {% for word in words %}
+          {% if word contains 'Mayfly' %}
+            <span style="color: #4c5c96;">{{ word }}</span>
+          {% else %}
+            {{ word }}
+          {% endif %}
+        {% endfor %}
+      </p>
 		</div>
 	</section>

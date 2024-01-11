@@ -1,14 +1,15 @@
 # Site settings
 title: Joshua W Lindsay
 tagline: >
-  I am a <strong>full-stack software engineer</strong> specializing in <strong>JavaScript</strong>,<br />am proficient in <strong>TypeScript</strong>, 
-  <strong>Go</strong>, and am a certified <strong>AWS Cloud Practitioner</strong>.<br />
-  I co-created Mayfly an open-source tool for deploying user session backends.
+  I am a <strong>full-stack software engineer</strong> specializing in <strong>JavaScript</strong>,<br />
+  am proficient in <strong>TypeScript</strong> and <strong>Go</strong>, and am an <strong>AWS Certified Cloud Practitioner</strong>.<br />
+  From training and managing employees, teaching math to at-risk students, and fostering children, I love solving problems with and for people.<br />
+  I co-created Mayfly, an open-source tool for deploying dedicated user sessions to the browser.
 image: images/HeadshotJUN2021.jpg
 description: >
-  I am a full-stack software engineer specializing in JavaScript, am proficient in TypeScript, 
-  Go, and am a certified AWS Cloud Practitioner.
-  I co-created Mayfly, an open-source tool for deploying user session backends.
+  I am a full-stack software engineer specializing in JavaScript, am proficient in TypeScript and Go, and am an AWS Certified Cloud Practitioner.
+  From training and managing employees, teaching math to at-risk students, and fostering children, I love solving problems with and for people.
+  I co-created Mayfly, an open-source tool for deploying dedicated user sessions to the browser.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://joshuawlindsay.dev" # the base hostname & protocol for your site
 

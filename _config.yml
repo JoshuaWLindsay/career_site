@@ -1,11 +1,10 @@
 # Site settings
 title: Joshua W Lindsay
 tagline: >
-  I am a <strong>full-stack software engineer</strong> specializing in <strong>JavaScript</strong>, am proficient in <strong>TypeScript</strong>, 
+  I am a <strong>full-stack software engineer</strong> specializing in <strong>JavaScript</strong>,<br />am proficient in <strong>TypeScript</strong>, 
   <strong>Go</strong>, and am a certified <strong>AWS Cloud Practitioner</strong>.<br />
-  I co-created <a href="https://mayfly.dev"><strong>Mayfly</strong></a>, an open-source tool for deploying user session backends.<br />
-  I <strong>taught</strong> secondary math to at-risk students, <strong>trained</strong> and <strong>managed</strong> employees,<br />
-  and I <strong>foster</strong> children with my wife.
+  I co-created <span style="color: #4c5c96;"><a href="https://mayfly.dev" target="_blank" rel="noopener noreferrer"><strong>Mayfly</strong></a></span>, an open-source tool for deploying user session backends.<br />
+  I <strong>taught</strong> secondary math to at-risk students, <strong>trained</strong> and <strong>managed</strong> employees.
 image: images/HeadshotJUN2021.jpg
 description: >
   I am a full-stack software engineer specializing in JavaScript, am proficient in TypeScript, 
